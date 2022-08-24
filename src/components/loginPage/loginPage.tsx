@@ -25,10 +25,11 @@ const LoginPage = () => {
         component='img'
         sx={{
           width: '448px',
+          height: 'inherit',
           margin: 'auto 0'
         }}
         src="login-image.jpg"
-        alt=''
+        alt='Login image'
       />
     </Container>
   )
