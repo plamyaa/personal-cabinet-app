@@ -1,0 +1,29 @@
+{
+  "account": {
+    "login": "login",
+    "password": "0000"
+  },
+  "clients": [
+    {
+      "id": "1",
+      "age": 36,
+      "name": "Dunlap Hubbard",
+      "gender": "Male",
+      "email": "dunlaphubbard@cedward.com"
+    },
+    {
+      "id": "2",
+      "age": 24,
+      "name": "Kirsten Sellers",
+      "gender": "Female",
+      "email": "kirstensellers@emergent.com"
+    },
+    {
+      "id": "3",
+      "age": 30,
+      "name": "Acosta Robbins",
+      "gender": "Male",
+      "email": "acostarobbins@organica.com"
+    }
+  ]
+}
